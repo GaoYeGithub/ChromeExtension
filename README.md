@@ -1,7 +1,7 @@
 # Screen Time Manager
 
 Monitor and control your screen time across different websites
-To help lock in, and control your screen time
+To help you lock in, and control your screen time
 
 ![alt text](https://cloud-76smcha44-hack-club-bot.vercel.app/0image.png)
 
